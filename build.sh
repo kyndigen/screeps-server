@@ -1,4 +1,4 @@
 #!/bin/bash
 
-docker build -f Dockerfile.devel --tag kscreeps:devel .
+docker build -f Dockerfile --tag kscreeps:main .
 
